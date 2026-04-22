@@ -1,0 +1,28 @@
+# Unreal Engine core folders (CRITICAL)
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Engine/
+.vs/
+
+# Visual Studio / IDE
+.vs/
+.idea/
+*.suo
+*.user
+*.userprefs
+
+# Build / logs
+*.log
+*.dmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Unreal project files
+*.sln
+*.VC.db
+*.opensdf
+*.opendb
