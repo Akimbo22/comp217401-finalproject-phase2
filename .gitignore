@@ -1,4 +1,6 @@
+# =========================
 # Unreal Engine core folders (CRITICAL)
+# =========================
 Binaries/
 DerivedDataCache/
 Intermediate/
@@ -6,23 +8,45 @@ Saved/
 Engine/
 .vs/
 
+# =========================
+# Unreal Content heavy / generated data (IMPORTANT FIX)
+# =========================
+Content/__ExternalActors__/
+Content/__ExternalObjects__/
+Content/DerivedDataCache/
+Content/Intermediate/
+
+# =========================
 # Visual Studio / IDE
+# =========================
 .vs/
 .idea/
 *.suo
 *.user
 *.userprefs
 
+# =========================
 # Build / logs
+# =========================
 *.log
 *.dmp
 
+# =========================
 # OS files
+# =========================
 .DS_Store
 Thumbs.db
 
+# =========================
 # Unreal project files
+# =========================
 *.sln
 *.VC.db
 *.opensdf
 *.opendb
+
+# =========================
+# Git LFS (recommended)
+# =========================
+*.uasset
+*.umap
