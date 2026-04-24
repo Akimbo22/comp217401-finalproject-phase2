@@ -1,0 +1,39 @@
+# =========================
+# Unreal Engine folders
+# =========================
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.idea/
+*BuiltData*.uasset
+
+# =========================
+# Visual Studio / Rider / IDE
+# =========================
+.vs/
+.idea/
+*.suo
+*.user
+*.userprefs
+
+# =========================
+# Build / logs
+# =========================
+*.log
+*.dmp
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Unreal project artifacts
+# =========================
+*.sln
+*.VC.db
+*.opensdf
+*.opendb
