@@ -1,10 +1,11 @@
-# COMP217 SEC.401 - Final Project - Group 4
+# COMP217 SEC.401 - Final Project Phase 2 - Group 4
 
 **For Unreal Engine - Version 5.7**
 
 ***RUN INSTRUCTIONS:***
-- Download *COMP217GroupFinal* from the directory
-- (Files aside from this project folder are already included in said folder, they were uploaded separately during the development process)
+- Download a .zip of the contents in the repository
+- (Click the green [code] drop-down button, then select [Download ZIP]
+- Extract the contents of the .zip into a new folder
 - Run Unreal Engine
 - Select [My Projects]
 - Select [Browse]
